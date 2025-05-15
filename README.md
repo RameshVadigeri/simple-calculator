@@ -1,22 +1,24 @@
-# simple calculator 
+# Simple Calculator GUI App
 
-A beginner Python calculator project that performs basic arithmetic operations:
-
-- Addition
-- Subtraction
-- Multiplication
-- Division (with error handling for division by zero)
-
-  ## How to Run
-
-  1. open the file in any python IDE or editor (like VS code).
-  2. Run the script and follow the instructions in the terminal.
+A basic calculator desktop application built with Python and Tkinter.
 
 ## Features
 
-- User input support
-- clean and simple logic
-- Error handling for invalid operations and zero division
+- Add, subtract, multiply, and divide
+- Clear input
+- Real-time calculation using the "=" button
+- Easy-to-use graphical interface
+
+## How to Run
+
+1. Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/)
+2. Clone this repository or download the `calculator.py` file.
+3. Open your terminal or command prompt, navigate to the folder containing `calculator.py`.
+4. Run the command:
+
+   ```bash
+   python calculator.py
+
 
 ## screenshot
 
