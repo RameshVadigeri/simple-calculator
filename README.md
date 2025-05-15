@@ -18,6 +18,15 @@ A beginner Python calculator project that performs basic arithmetic operations:
 - clean and simple logic
 - Error handling for invalid operations and zero division
 
+## screenshot
+
+git add screenshot.png
+git commit -m "Add screenshot of calculator app"
+git push
+
+![Calculator Screenshot](screenshot.png)
+
+
   ## Author
 
   Ramesh Vadigeri
